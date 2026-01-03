@@ -1,0 +1,8 @@
+# Minimal Requirements for HuggingFace Spaces
+# DarkDriftz's Auto-Updating Kali Arsenal v3.6.0
+
+# Core dependencies only - Gradio is managed by Spaces
+fastapi
+uvicorn[standard]
+aiohttp
+psutil
