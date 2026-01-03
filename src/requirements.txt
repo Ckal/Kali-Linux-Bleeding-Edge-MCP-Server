@@ -5,9 +5,9 @@
 # CORE DEPENDENCIES
 # ==========================================
 
-# gradio>=4.0.0 with MCP support - DO NOT specify version, let Spaces manage it
-# HuggingFace Spaces automatically installs gradio>=4.0.0[oauth,mcp]==5.32.0
-# gradio>=4.0.0[mcp]
+# gradio>=4.44.0 with MCP support - DO NOT specify version, let Spaces manage it
+# HuggingFace Spaces automatically installs gradio>=4.44.0[oauth,mcp]==5.32.0
+# gradio>=4.44.0[mcp]
 
 # FastAPI and ASGI server
 fastapi>=0.104.0,<1.0.0
